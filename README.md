@@ -11,6 +11,7 @@ I've always wanted to pursue my career in tech, I'm glad i finally took the bold
 * 🧠  I'm learning At ALX to be a Full stack developer
 * ⚡  I' m very open to meeting new people and sharing views with them so hit me up.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sylvia-okorie&label=Profile%20views&color=0e75b6&style=flat" alt="sylvia-okorie" /> </p>
 <a href="https://www.twitter.com/cutelykdah" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/cutelykdah?logo=twitter&style=for-the-badge&color=facc15&labelColor=000000"
 /></a><a href="https://www.github.com/sylviaokorie" target="_blank" rel="noreferrer"><img
